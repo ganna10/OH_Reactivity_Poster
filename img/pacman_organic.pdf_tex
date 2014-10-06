@@ -56,10 +56,10 @@
     \put(0.33095612,0.14226499){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.25113569\unitlength}\raggedright {\textbf{NO}}\end{minipage}}}%
     \put(0.39720165,0.62335953){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.2674256\unitlength}\raggedright {\textbf{NO2}}\end{minipage}}}%
     \put(0.18461868,0.44281333){\color[rgb]{0,0,0}\makebox(0,0)[lt]{\begin{minipage}{0.30950778\unitlength}\raggedright {\textbf{\ce{C5H8}}}\end{minipage}}}%
-    \put(0.77458398,0.49819894){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.20226603\unitlength}\raggedright {\textbf{HCHO}}\end{minipage}}}%
+    \put(0.77648446,0.50199991){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.20226603\unitlength}\raggedright {\textbf{HCHO}}\end{minipage}}}%
     \put(0.70127948,0.62933249){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.24570572\unitlength}\raggedright {\textbf{CO}}\end{minipage}}}%
-    \put(0.13792102,0.59376624){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.24570574\unitlength}\raggedright {\textbf{MACR}}\end{minipage}}}%
-    \put(0.00434397,0.44498532){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.21448345\unitlength}\raggedright {\textbf{HCHO}}\end{minipage}}}%
-    \put(0.04968414,0.23023034){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.24706322\unitlength}\raggedright {\textbf{MVK}}\end{minipage}}}%
+    \put(0.11891615,0.60706965){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.24570574\unitlength}\raggedright {\textbf{MACR}}\end{minipage}}}%
+    \put(0.00434397,0.45448775){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.21448345\unitlength}\raggedright {\textbf{HCHO}}\end{minipage}}}%
+    \put(0.05348512,0.23973277){\color[rgb]{1,1,1}\makebox(0,0)[lt]{\begin{minipage}{0.24706322\unitlength}\raggedright {\textbf{MVK}}\end{minipage}}}%
   \end{picture}%
 \endgroup%

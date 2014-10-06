@@ -77,8 +77,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1021"
+     inkscape:window-width="1366"
+     inkscape:window-height="709"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1" />
@@ -303,15 +303,15 @@
        sodipodi:cy="184.09448"
        sodipodi:rx="61.42857"
        sodipodi:ry="61.42857"
-       d="m 856.29368,227.53104 c -23.98935,23.98935 -62.88377,23.98935 -86.87312,0 -23.98935,-23.98935 -23.98935,-62.88377 0,-86.87312 23.98935,-23.98934 62.88377,-23.98934 86.87311,0 11.5201,11.5201 17.99202,27.14469 17.99202,43.43656 l -61.42857,0 z"
-       transform="matrix(-0.71903327,0.85143047,-0.94774023,-0.75003268,1639.7678,9.4806085)"
+       d="m 856.29368,227.53104 a 61.42857,61.42857 0 1 1 17.99201,-43.43656 l -61.42857,0 z"
+       transform="matrix(-0.8481199,1.0042861,-1.1178862,-0.88468457,1789.0174,-89.980515)"
        sodipodi:start="0.78539816"
        sodipodi:end="6.2831853" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3224"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-32,348.2677)"><flowRegion
+       transform="translate(-30,344.2677)"><flowRegion
          id="flowRegion3226"><rect
            id="rect3228"
            width="212.85716"
@@ -351,15 +351,15 @@
        sodipodi:cy="184.09448"
        sodipodi:rx="61.42857"
        sodipodi:ry="61.42857"
-       d="m 856.29368,227.53104 c -23.98935,23.98935 -62.88377,23.98935 -86.87312,0 -23.98935,-23.98935 -23.98935,-62.88377 0,-86.87312 23.98935,-23.98934 62.88377,-23.98934 86.87311,0 11.5201,11.5201 17.99202,27.14469 17.99202,43.43656 l -61.42857,0 z"
-       transform="matrix(0.92217148,0.62573346,-0.64645707,1.0212022,-423.67073,-235.15116)"
+       d="m 856.29368,227.53104 a 61.42857,61.42857 0 1 1 17.99201,-43.43656 l -61.42857,0 z"
+       transform="matrix(1.0376263,0.70407458,-0.72739277,1.1490555,-511.35317,-331.65411)"
        sodipodi:start="0.78539816"
        sodipodi:end="6.2831853" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3236"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(58,346.2677)"><flowRegion
+       transform="translate(38,332.2677)"><flowRegion
          id="flowRegion3238"><rect
            id="rect3240"
            width="258.57144"
@@ -370,8 +370,8 @@
          id="flowPara3242">{\textbf{MACR}}</flowPara></flowRoot>    <path
        sodipodi:end="6.2831853"
        sodipodi:start="0.78539816"
-       transform="matrix(1.1100287,-0.09888831,0.14549645,1.1998298,-858.16665,478.97675)"
-       d="m 856.29368,227.53104 c -23.98935,23.98935 -62.88377,23.98935 -86.87312,0 -23.98935,-23.98935 -23.98935,-62.88377 0,-86.87312 23.98935,-23.98934 62.88377,-23.98934 86.87311,0 11.5201,11.5201 17.99202,27.14469 17.99202,43.43656 l -61.42857,0 z"
+       transform="matrix(1.2534511,-0.11166528,0.16429547,1.354855,-969.39913,460.82331)"
+       d="m 856.29368,227.53104 a 61.42857,61.42857 0 1 1 17.99201,-43.43656 l -61.42857,0 z"
        sodipodi:ry="61.42857"
        sodipodi:rx="61.42857"
        sodipodi:cy="184.09448"
@@ -383,7 +383,7 @@
        xml:space="preserve"
        id="flowRoot3246"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(-34,334.2677)"><flowRegion
+       transform="translate(-34,324.2677)"><flowRegion
          id="flowRegion3248"><rect
            id="rect3250"
            width="225.71428"
@@ -399,15 +399,15 @@
        sodipodi:cy="184.09448"
        sodipodi:rx="61.42857"
        sodipodi:ry="61.42857"
-       d="m 856.29368,227.53104 c -23.98935,23.98935 -62.88377,23.98935 -86.87312,0 -23.98935,-23.98935 -23.98935,-62.88377 0,-86.87312 23.98935,-23.98934 62.88377,-23.98934 86.87311,0 11.5201,11.5201 17.99202,27.14469 17.99202,43.43656 l -61.42857,0 z"
-       transform="matrix(0.73788377,-0.83514677,0.93073969,0.77102808,-662.22523,1334.3891)"
+       d="m 856.29368,227.53104 a 61.42857,61.42857 0 1 1 17.99201,-43.43656 l -61.42857,0 z"
+       transform="matrix(0.78280175,-0.88598554,0.98739759,0.81796369,-704.69033,1362.7874)"
        sodipodi:start="0.78539816"
        sodipodi:end="6.2831853" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3256"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
-       transform="translate(8,380.2677)"><flowRegion
+       transform="translate(12,370.2677)"><flowRegion
          id="flowRegion3258"><rect
            id="rect3260"
            width="260"
